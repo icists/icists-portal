@@ -1,6 +1,6 @@
 export const HOME = {
   link: '/',
-  name: 'Home',
+  name: '홈',
 };
 
 export const PEOPLE = {
